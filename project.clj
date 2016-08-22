@@ -1,6 +1,6 @@
 (defproject clj-tableau "1.0.6-SNAPSHOT"
-            :description "Clojure bindings for Tableau APIs (Extract & Rest)"
-            :url "http://github.com/starschema/clj-tableau"
+            :description "Clojure bindings for Tableau APIs (Extraction & Rest)"
+            :url "http://github.com/JonathanGTh/clj-tableau-api"
             :license {:name "Eclipse Public License"
                       :url  "http://opensource.org/licenses/BSD-2-Clause"}
             :resource-paths ["resources/jna.jar" "resources/dataextract.jar"]
